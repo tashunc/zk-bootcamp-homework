@@ -1,6 +1,6 @@
 [submodule "Homework_4"]
 	path = Homework_4
-	url = git@github.com:tashunc/ZeroKnowledgeBootcamp.git
+	url = https://github.com/tashunc/ZeroKnowledgeBootcamp.git
 [submodule "homework_5"]
 	path = homework_5
-	url = git@github.com:tashunc/cairo_helloworld.git
+	url = https://github.com/tashunc/cairo_helloworld.git
